@@ -1,4 +1,8 @@
 message = "Hello, world!"
 
-for i in range(len(message)):
-    print(message[i])
+for j in range(len(message)):
+    print(message[j])
+    print("Martin Has striked once again")
+
+print("Thus concludes my spam")
+
