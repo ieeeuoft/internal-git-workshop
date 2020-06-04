@@ -1,4 +1,4 @@
 message = "Hello, world!"
 
-for i in range(len(message)):
-    print(message[i])
+for k in range(len(message)):
+    print(message[k])
