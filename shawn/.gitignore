@@ -1,0 +1,5 @@
+scratch*.py
+node_modules/
+.vscode/
+.idea/
+venv/
