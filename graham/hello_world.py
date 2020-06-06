@@ -5,4 +5,3 @@ for j in range(len(message)):
     print("Martin Has striked once again")
 
 print("Thus concludes my spam")
-
